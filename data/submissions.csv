@@ -1,0 +1,163 @@
+﻿学生姓名,拼音,专业,挑战编号,挑战名称,提交时间,状态,完成度,缺失文件,达到等级,备注
+张明辉,zhangminghui,人工智能,C2,AI4Math 学术论文,2026-03-17T00:00:00+08:00,完整,1.0,,2,
+张明辉,zhangminghui,人工智能,C4A,技能评审器,2026-03-21T00:00:00+08:00,完整,1.0,,1,
+张明辉,zhangminghui,人工智能,C4B,微信公众号发布,2026-03-28T00:00:00+08:00,部分,0.67,article.html,1,缺少: article.html
+张明辉,zhangminghui,人工智能,C4C,作业自动求解器,2026-04-03T00:00:00+08:00,完整,1.0,,2,
+张明辉,zhangminghui,人工智能,C4D,本地大模型 Agent,2026-04-14T00:00:00+08:00,部分,0.6,"map.html, 验证报告.md",1,"缺少: map.html, 验证报告.md"
+张明辉,zhangminghui,人工智能,C5,GitHub 开源项目,,缺失,0.0,"repo链接.md, README.md, LICENSE, AI日志.md, 拿来说明.md",0,未提交
+张明辉,zhangminghui,人工智能,C5A,GitHub 入门,2026-04-27T00:00:00+08:00,部分,0.5,"AAR.md, GitHub账号.txt",2,"缺少: AAR.md, GitHub账号.txt"
+张明辉,zhangminghui,人工智能,C6,Web App 上线,2026-05-07T00:00:00+08:00,完整,1.0,,1,
+张明辉,zhangminghui,人工智能,C6A,提交数据仪表盘,2026-05-13T00:00:00+08:00,完整,1.0,,3,
+李思雨,lisiyu,人工智能,C2,AI4Math 学术论文,2026-03-14T00:00:00+08:00,部分,0.8,AI日志.md,2,缺少: AI日志.md
+李思雨,lisiyu,人工智能,C4A,技能评审器,,缺失,0.0,"skill-evaluator.skill, 评审报告.md, AI日志.md",0,未提交
+李思雨,lisiyu,人工智能,C4B,微信公众号发布,2026-03-28T00:00:00+08:00,完整,1.0,,1,
+李思雨,lisiyu,人工智能,C4C,作业自动求解器,2026-04-04T00:00:00+08:00,部分,0.5,"homework-solver.skill, AI日志.md",2,"缺少: homework-solver.skill, AI日志.md"
+李思雨,lisiyu,人工智能,C4D,本地大模型 Agent,2026-04-15T00:00:00+08:00,完整,1.0,,2,
+李思雨,lisiyu,人工智能,C5,GitHub 开源项目,2026-04-20T00:00:00+08:00,完整,1.0,,3,
+李思雨,lisiyu,人工智能,C5A,GitHub 入门,2026-04-27T00:00:00+08:00,部分,0.75,仓库分析.md,1,缺少: 仓库分析.md
+李思雨,lisiyu,人工智能,C6,Web App 上线,2026-05-05T00:00:00+08:00,完整,1.0,,2,
+李思雨,lisiyu,人工智能,C6A,提交数据仪表盘,2026-05-08T00:00:00+08:00,部分,0.8,data/,2,缺少: data/
+王浩然,wanghaoran,计算机科学,C2,AI4Math 学术论文,2026-03-18T00:00:00+08:00,完整,1.0,,2,
+王浩然,wanghaoran,计算机科学,C4A,技能评审器,,缺失,0.0,"skill-evaluator.skill, 评审报告.md, AI日志.md",0,未提交
+王浩然,wanghaoran,计算机科学,C4B,微信公众号发布,,缺失,0.0,"article.html, 发布截图.png, AI日志.md",0,未提交
+王浩然,wanghaoran,计算机科学,C4C,作业自动求解器,2026-04-05T00:00:00+08:00,完整,1.0,,2,
+王浩然,wanghaoran,计算机科学,C4D,本地大模型 Agent,,缺失,0.0,"agent-skill/, map.html, 方案设计.md, 验证报告.md, AI日志.md",0,未提交
+王浩然,wanghaoran,计算机科学,C5,GitHub 开源项目,,缺失,0.0,"repo链接.md, README.md, LICENSE, AI日志.md, 拿来说明.md",0,未提交
+王浩然,wanghaoran,计算机科学,C5A,GitHub 入门,,缺失,0.0,"GitHub账号.txt, 仓库分析.md, AAR.md, AI日志.md",0,未提交
+王浩然,wanghaoran,计算机科学,C6,Web App 上线,2026-05-03T00:00:00+08:00,完整,1.0,,4,
+王浩然,wanghaoran,计算机科学,C6A,提交数据仪表盘,2026-05-08T00:00:00+08:00,完整,1.0,,1,
+陈欣怡,chenxinyi,人工智能,C2,AI4Math 学术论文,2026-03-19T00:00:00+08:00,完整,1.0,,1,
+陈欣怡,chenxinyi,人工智能,C4A,技能评审器,2026-03-27T00:00:00+08:00,完整,1.0,,3,
+陈欣怡,chenxinyi,人工智能,C4B,微信公众号发布,,缺失,0.0,"article.html, 发布截图.png, AI日志.md",0,未提交
+陈欣怡,chenxinyi,人工智能,C4C,作业自动求解器,,缺失,0.0,"homework-solver.skill, output.pdf, 验证报告.md, AI日志.md",0,未提交
+陈欣怡,chenxinyi,人工智能,C4D,本地大模型 Agent,,缺失,0.0,"agent-skill/, map.html, 方案设计.md, 验证报告.md, AI日志.md",0,未提交
+陈欣怡,chenxinyi,人工智能,C5,GitHub 开源项目,,缺失,0.0,"repo链接.md, README.md, LICENSE, AI日志.md, 拿来说明.md",0,未提交
+陈欣怡,chenxinyi,人工智能,C5A,GitHub 入门,2026-04-30T00:00:00+08:00,完整,1.0,,2,
+陈欣怡,chenxinyi,人工智能,C6,Web App 上线,2026-05-02T00:00:00+08:00,部分,0.5,"demo视频.mp4, repo链接.md",2,"缺少: demo视频.mp4, repo链接.md"
+陈欣怡,chenxinyi,人工智能,C6A,提交数据仪表盘,,缺失,0.0,"方案设计.md, data/, dashboard/, report.xlsx, AI日志.md",0,未提交
+刘子轩,liuzixuan,软件工程,C2,AI4Math 学术论文,,缺失,0.0,"paper.tex, references.bib, paper.pdf, AI日志.md, AAR.md",0,未提交
+刘子轩,liuzixuan,软件工程,C4A,技能评审器,,缺失,0.0,"skill-evaluator.skill, 评审报告.md, AI日志.md",0,未提交
+刘子轩,liuzixuan,软件工程,C4B,微信公众号发布,2026-04-01T00:00:00+08:00,完整,1.0,,3,
+刘子轩,liuzixuan,软件工程,C4C,作业自动求解器,2026-04-06T00:00:00+08:00,完整,1.0,,1,
+刘子轩,liuzixuan,软件工程,C4D,本地大模型 Agent,2026-04-17T00:00:00+08:00,完整,1.0,,1,
+刘子轩,liuzixuan,软件工程,C5,GitHub 开源项目,,缺失,0.0,"repo链接.md, README.md, LICENSE, AI日志.md, 拿来说明.md",0,未提交
+刘子轩,liuzixuan,软件工程,C5A,GitHub 入门,2026-05-01T00:00:00+08:00,完整,1.0,,2,
+刘子轩,liuzixuan,软件工程,C6,Web App 上线,2026-05-07T00:00:00+08:00,完整,1.0,,2,
+刘子轩,liuzixuan,软件工程,C6A,提交数据仪表盘,,缺失,0.0,"方案设计.md, data/, dashboard/, report.xlsx, AI日志.md",0,未提交
+赵梦琪,zhaomengqi,数据科学,C2,AI4Math 学术论文,2026-03-18T00:00:00+08:00,完整,1.0,,4,
+赵梦琪,zhaomengqi,数据科学,C4A,技能评审器,,缺失,0.0,"skill-evaluator.skill, 评审报告.md, AI日志.md",0,未提交
+赵梦琪,zhaomengqi,数据科学,C4B,微信公众号发布,2026-03-30T00:00:00+08:00,完整,1.0,,1,
+赵梦琪,zhaomengqi,数据科学,C4C,作业自动求解器,2026-04-06T00:00:00+08:00,完整,1.0,,2,
+赵梦琪,zhaomengqi,数据科学,C4D,本地大模型 Agent,2026-04-10T00:00:00+08:00,完整,1.0,,2,
+赵梦琪,zhaomengqi,数据科学,C5,GitHub 开源项目,2026-04-17T00:00:00+08:00,完整,1.0,,3,
+赵梦琪,zhaomengqi,数据科学,C5A,GitHub 入门,2026-04-27T00:00:00+08:00,完整,1.0,,3,
+赵梦琪,zhaomengqi,数据科学,C6,Web App 上线,2026-05-08T00:00:00+08:00,部分,0.75,demo视频.mp4,1,缺少: demo视频.mp4
+赵梦琪,zhaomengqi,数据科学,C6A,提交数据仪表盘,,缺失,0.0,"方案设计.md, data/, dashboard/, report.xlsx, AI日志.md",0,未提交
+孙嘉伟,sunjiawei,人工智能,C2,AI4Math 学术论文,2026-03-19T00:00:00+08:00,完整,1.0,,3,
+孙嘉伟,sunjiawei,人工智能,C4A,技能评审器,2026-03-21T00:00:00+08:00,部分,0.33,"AI日志.md, skill-evaluator.skill",1,"缺少: AI日志.md, skill-evaluator.skill"
+孙嘉伟,sunjiawei,人工智能,C4B,微信公众号发布,2026-04-01T00:00:00+08:00,完整,1.0,,1,
+孙嘉伟,sunjiawei,人工智能,C4C,作业自动求解器,2026-04-06T00:00:00+08:00,完整,1.0,,4,
+孙嘉伟,sunjiawei,人工智能,C4D,本地大模型 Agent,2026-04-12T00:00:00+08:00,完整,1.0,,3,
+孙嘉伟,sunjiawei,人工智能,C5,GitHub 开源项目,2026-04-18T00:00:00+08:00,部分,0.8,AI日志.md,1,缺少: AI日志.md
+孙嘉伟,sunjiawei,人工智能,C5A,GitHub 入门,,缺失,0.0,"GitHub账号.txt, 仓库分析.md, AAR.md, AI日志.md",0,未提交
+孙嘉伟,sunjiawei,人工智能,C6,Web App 上线,,缺失,0.0,"app链接.md, demo视频.mp4, repo链接.md, AI日志.md",0,未提交
+孙嘉伟,sunjiawei,人工智能,C6A,提交数据仪表盘,2026-05-15T00:00:00+08:00,完整,1.0,,4,
+周雅婷,zhouyating,计算机科学,C2,AI4Math 学术论文,2026-03-13T00:00:00+08:00,完整,1.0,,2,
+周雅婷,zhouyating,计算机科学,C4A,技能评审器,2026-03-26T00:00:00+08:00,完整,1.0,,3,
+周雅婷,zhouyating,计算机科学,C4B,微信公众号发布,,缺失,0.0,"article.html, 发布截图.png, AI日志.md",0,未提交
+周雅婷,zhouyating,计算机科学,C4C,作业自动求解器,2026-04-10T00:00:00+08:00,完整,1.0,,2,
+周雅婷,zhouyating,计算机科学,C4D,本地大模型 Agent,2026-04-13T00:00:00+08:00,完整,1.0,,1,
+周雅婷,zhouyating,计算机科学,C5,GitHub 开源项目,,缺失,0.0,"repo链接.md, README.md, LICENSE, AI日志.md, 拿来说明.md",0,未提交
+周雅婷,zhouyating,计算机科学,C5A,GitHub 入门,,缺失,0.0,"GitHub账号.txt, 仓库分析.md, AAR.md, AI日志.md",0,未提交
+周雅婷,zhouyating,计算机科学,C6,Web App 上线,2026-05-08T00:00:00+08:00,完整,1.0,,2,
+周雅婷,zhouyating,计算机科学,C6A,提交数据仪表盘,2026-05-09T00:00:00+08:00,完整,1.0,,2,
+吴俊杰,wujunjie,人工智能,C2,AI4Math 学术论文,2026-03-16T00:00:00+08:00,完整,1.0,,4,
+吴俊杰,wujunjie,人工智能,C4A,技能评审器,2026-03-23T00:00:00+08:00,完整,1.0,,1,
+吴俊杰,wujunjie,人工智能,C4B,微信公众号发布,,缺失,0.0,"article.html, 发布截图.png, AI日志.md",0,未提交
+吴俊杰,wujunjie,人工智能,C4C,作业自动求解器,,缺失,0.0,"homework-solver.skill, output.pdf, 验证报告.md, AI日志.md",0,未提交
+吴俊杰,wujunjie,人工智能,C4D,本地大模型 Agent,,缺失,0.0,"agent-skill/, map.html, 方案设计.md, 验证报告.md, AI日志.md",0,未提交
+吴俊杰,wujunjie,人工智能,C5,GitHub 开源项目,,缺失,0.0,"repo链接.md, README.md, LICENSE, AI日志.md, 拿来说明.md",0,未提交
+吴俊杰,wujunjie,人工智能,C5A,GitHub 入门,2026-04-30T00:00:00+08:00,完整,1.0,,2,
+吴俊杰,wujunjie,人工智能,C6,Web App 上线,,缺失,0.0,"app链接.md, demo视频.mp4, repo链接.md, AI日志.md",0,未提交
+吴俊杰,wujunjie,人工智能,C6A,提交数据仪表盘,2026-05-15T00:00:00+08:00,部分,0.8,方案设计.md,1,缺少: 方案设计.md
+郑晓雯,zhengxiaowen,软件工程,C2,AI4Math 学术论文,2026-03-17T00:00:00+08:00,完整,1.0,,2,
+郑晓雯,zhengxiaowen,软件工程,C4A,技能评审器,,缺失,0.0,"skill-evaluator.skill, 评审报告.md, AI日志.md",0,未提交
+郑晓雯,zhengxiaowen,软件工程,C4B,微信公众号发布,,缺失,0.0,"article.html, 发布截图.png, AI日志.md",0,未提交
+郑晓雯,zhengxiaowen,软件工程,C4C,作业自动求解器,2026-04-10T00:00:00+08:00,完整,1.0,,3,
+郑晓雯,zhengxiaowen,软件工程,C4D,本地大模型 Agent,,缺失,0.0,"agent-skill/, map.html, 方案设计.md, 验证报告.md, AI日志.md",0,未提交
+郑晓雯,zhengxiaowen,软件工程,C5,GitHub 开源项目,,缺失,0.0,"repo链接.md, README.md, LICENSE, AI日志.md, 拿来说明.md",0,未提交
+郑晓雯,zhengxiaowen,软件工程,C5A,GitHub 入门,,缺失,0.0,"GitHub账号.txt, 仓库分析.md, AAR.md, AI日志.md",0,未提交
+郑晓雯,zhengxiaowen,软件工程,C6,Web App 上线,,缺失,0.0,"app链接.md, demo视频.mp4, repo链接.md, AI日志.md",0,未提交
+郑晓雯,zhengxiaowen,软件工程,C6A,提交数据仪表盘,2026-05-09T00:00:00+08:00,完整,1.0,,2,
+黄志强,huangzhiqiang,人工智能,C2,AI4Math 学术论文,,缺失,0.0,"paper.tex, references.bib, paper.pdf, AI日志.md, AAR.md",0,未提交
+黄志强,huangzhiqiang,人工智能,C4A,技能评审器,2026-03-24T00:00:00+08:00,完整,1.0,,4,
+黄志强,huangzhiqiang,人工智能,C4B,微信公众号发布,2026-03-27T00:00:00+08:00,完整,1.0,,1,
+黄志强,huangzhiqiang,人工智能,C4C,作业自动求解器,,缺失,0.0,"homework-solver.skill, output.pdf, 验证报告.md, AI日志.md",0,未提交
+黄志强,huangzhiqiang,人工智能,C4D,本地大模型 Agent,2026-04-15T00:00:00+08:00,完整,1.0,,2,
+黄志强,huangzhiqiang,人工智能,C5,GitHub 开源项目,,缺失,0.0,"repo链接.md, README.md, LICENSE, AI日志.md, 拿来说明.md",0,未提交
+黄志强,huangzhiqiang,人工智能,C5A,GitHub 入门,2026-05-01T00:00:00+08:00,完整,1.0,,4,
+黄志强,huangzhiqiang,人工智能,C6,Web App 上线,2026-05-03T00:00:00+08:00,部分,0.75,app链接.md,1,缺少: app链接.md
+黄志强,huangzhiqiang,人工智能,C6A,提交数据仪表盘,,缺失,0.0,"方案设计.md, data/, dashboard/, report.xlsx, AI日志.md",0,未提交
+林诗涵,linshihan,数据科学,C2,AI4Math 学术论文,2026-03-18T00:00:00+08:00,完整,1.0,,1,
+林诗涵,linshihan,数据科学,C4A,技能评审器,,缺失,0.0,"skill-evaluator.skill, 评审报告.md, AI日志.md",0,未提交
+林诗涵,linshihan,数据科学,C4B,微信公众号发布,,缺失,0.0,"article.html, 发布截图.png, AI日志.md",0,未提交
+林诗涵,linshihan,数据科学,C4C,作业自动求解器,2026-04-09T00:00:00+08:00,完整,1.0,,2,
+林诗涵,linshihan,数据科学,C4D,本地大模型 Agent,,缺失,0.0,"agent-skill/, map.html, 方案设计.md, 验证报告.md, AI日志.md",0,未提交
+林诗涵,linshihan,数据科学,C5,GitHub 开源项目,,缺失,0.0,"repo链接.md, README.md, LICENSE, AI日志.md, 拿来说明.md",0,未提交
+林诗涵,linshihan,数据科学,C5A,GitHub 入门,,缺失,0.0,"GitHub账号.txt, 仓库分析.md, AAR.md, AI日志.md",0,未提交
+林诗涵,linshihan,数据科学,C6,Web App 上线,2026-05-06T00:00:00+08:00,完整,1.0,,4,
+林诗涵,linshihan,数据科学,C6A,提交数据仪表盘,,缺失,0.0,"方案设计.md, data/, dashboard/, report.xlsx, AI日志.md",0,未提交
+徐浩然,xuhaoran,计算机科学,C2,AI4Math 学术论文,,缺失,0.0,"paper.tex, references.bib, paper.pdf, AI日志.md, AAR.md",0,未提交
+徐浩然,xuhaoran,计算机科学,C4A,技能评审器,2026-03-20T00:00:00+08:00,完整,1.0,,4,
+徐浩然,xuhaoran,计算机科学,C4B,微信公众号发布,2026-04-03T00:00:00+08:00,完整,1.0,,3,
+徐浩然,xuhaoran,计算机科学,C4C,作业自动求解器,2026-04-06T00:00:00+08:00,完整,1.0,,2,
+徐浩然,xuhaoran,计算机科学,C4D,本地大模型 Agent,2026-04-13T00:00:00+08:00,完整,1.0,,4,
+徐浩然,xuhaoran,计算机科学,C5,GitHub 开源项目,2026-04-18T00:00:00+08:00,完整,1.0,,3,
+徐浩然,xuhaoran,计算机科学,C5A,GitHub 入门,2026-04-30T00:00:00+08:00,完整,1.0,,3,
+徐浩然,xuhaoran,计算机科学,C6,Web App 上线,,缺失,0.0,"app链接.md, demo视频.mp4, repo链接.md, AI日志.md",0,未提交
+徐浩然,xuhaoran,计算机科学,C6A,提交数据仪表盘,,缺失,0.0,"方案设计.md, data/, dashboard/, report.xlsx, AI日志.md",0,未提交
+马雨桐,mayutong,人工智能,C2,AI4Math 学术论文,,缺失,0.0,"paper.tex, references.bib, paper.pdf, AI日志.md, AAR.md",0,未提交
+马雨桐,mayutong,人工智能,C4A,技能评审器,2026-03-26T00:00:00+08:00,完整,1.0,,3,
+马雨桐,mayutong,人工智能,C4B,微信公众号发布,,缺失,0.0,"article.html, 发布截图.png, AI日志.md",0,未提交
+马雨桐,mayutong,人工智能,C4C,作业自动求解器,2026-04-06T00:00:00+08:00,部分,0.75,AI日志.md,2,缺少: AI日志.md
+马雨桐,mayutong,人工智能,C4D,本地大模型 Agent,2026-04-16T00:00:00+08:00,完整,1.0,,1,
+马雨桐,mayutong,人工智能,C5,GitHub 开源项目,2026-04-23T00:00:00+08:00,部分,0.8,LICENSE,1,缺少: LICENSE
+马雨桐,mayutong,人工智能,C5A,GitHub 入门,,缺失,0.0,"GitHub账号.txt, 仓库分析.md, AAR.md, AI日志.md",0,未提交
+马雨桐,mayutong,人工智能,C6,Web App 上线,,缺失,0.0,"app链接.md, demo视频.mp4, repo链接.md, AI日志.md",0,未提交
+马雨桐,mayutong,人工智能,C6A,提交数据仪表盘,,缺失,0.0,"方案设计.md, data/, dashboard/, report.xlsx, AI日志.md",0,未提交
+朱文博,zhuwenbo,软件工程,C2,AI4Math 学术论文,2026-03-15T00:00:00+08:00,部分,0.6,"AI日志.md, paper.pdf",1,"缺少: AI日志.md, paper.pdf"
+朱文博,zhuwenbo,软件工程,C4A,技能评审器,2026-03-26T00:00:00+08:00,完整,1.0,,2,
+朱文博,zhuwenbo,软件工程,C4B,微信公众号发布,2026-03-31T00:00:00+08:00,部分,0.33,"发布截图.png, article.html",2,"缺少: 发布截图.png, article.html"
+朱文博,zhuwenbo,软件工程,C4C,作业自动求解器,2026-04-08T00:00:00+08:00,完整,1.0,,4,
+朱文博,zhuwenbo,软件工程,C4D,本地大模型 Agent,2026-04-13T00:00:00+08:00,完整,1.0,,4,
+朱文博,zhuwenbo,软件工程,C5,GitHub 开源项目,,缺失,0.0,"repo链接.md, README.md, LICENSE, AI日志.md, 拿来说明.md",0,未提交
+朱文博,zhuwenbo,软件工程,C5A,GitHub 入门,2026-04-27T00:00:00+08:00,部分,0.5,"AAR.md, GitHub账号.txt",2,"缺少: AAR.md, GitHub账号.txt"
+朱文博,zhuwenbo,软件工程,C6,Web App 上线,2026-05-04T00:00:00+08:00,完整,1.0,,2,
+朱文博,zhuwenbo,软件工程,C6A,提交数据仪表盘,2026-05-11T00:00:00+08:00,完整,1.0,,4,
+胡佳琪,hujiaqi,人工智能,C2,AI4Math 学术论文,,缺失,0.0,"paper.tex, references.bib, paper.pdf, AI日志.md, AAR.md",0,未提交
+胡佳琪,hujiaqi,人工智能,C4A,技能评审器,2026-03-23T00:00:00+08:00,完整,1.0,,4,
+胡佳琪,hujiaqi,人工智能,C4B,微信公众号发布,2026-03-30T00:00:00+08:00,完整,1.0,,2,
+胡佳琪,hujiaqi,人工智能,C4C,作业自动求解器,2026-04-09T00:00:00+08:00,部分,0.75,homework-solver.skill,1,缺少: homework-solver.skill
+胡佳琪,hujiaqi,人工智能,C4D,本地大模型 Agent,2026-04-17T00:00:00+08:00,完整,1.0,,1,
+胡佳琪,hujiaqi,人工智能,C5,GitHub 开源项目,2026-04-18T00:00:00+08:00,完整,1.0,,4,
+胡佳琪,hujiaqi,人工智能,C5A,GitHub 入门,2026-05-01T00:00:00+08:00,完整,1.0,,3,
+胡佳琪,hujiaqi,人工智能,C6,Web App 上线,,缺失,0.0,"app链接.md, demo视频.mp4, repo链接.md, AI日志.md",0,未提交
+胡佳琪,hujiaqi,人工智能,C6A,提交数据仪表盘,2026-05-10T00:00:00+08:00,部分,0.6,"AI日志.md, report.xlsx",2,"缺少: AI日志.md, report.xlsx"
+郭天宇,guotianyu,计算机科学,C2,AI4Math 学术论文,,缺失,0.0,"paper.tex, references.bib, paper.pdf, AI日志.md, AAR.md",0,未提交
+郭天宇,guotianyu,计算机科学,C4A,技能评审器,,缺失,0.0,"skill-evaluator.skill, 评审报告.md, AI日志.md",0,未提交
+郭天宇,guotianyu,计算机科学,C4B,微信公众号发布,2026-03-31T00:00:00+08:00,部分,0.33,"发布截图.png, article.html",1,"缺少: 发布截图.png, article.html"
+郭天宇,guotianyu,计算机科学,C4C,作业自动求解器,2026-04-08T00:00:00+08:00,完整,1.0,,1,
+郭天宇,guotianyu,计算机科学,C4D,本地大模型 Agent,2026-04-13T00:00:00+08:00,完整,1.0,,4,
+郭天宇,guotianyu,计算机科学,C5,GitHub 开源项目,,缺失,0.0,"repo链接.md, README.md, LICENSE, AI日志.md, 拿来说明.md",0,未提交
+郭天宇,guotianyu,计算机科学,C5A,GitHub 入门,2026-04-30T00:00:00+08:00,完整,1.0,,3,
+郭天宇,guotianyu,计算机科学,C6,Web App 上线,2026-05-07T00:00:00+08:00,部分,0.5,"app链接.md, AI日志.md",2,"缺少: app链接.md, AI日志.md"
+郭天宇,guotianyu,计算机科学,C6A,提交数据仪表盘,,缺失,0.0,"方案设计.md, data/, dashboard/, report.xlsx, AI日志.md",0,未提交
+何思远,hesiyuan,人工智能,C2,AI4Math 学术论文,2026-03-18T00:00:00+08:00,部分,0.6,"AI日志.md, paper.tex",2,"缺少: AI日志.md, paper.tex"
+何思远,hesiyuan,人工智能,C4A,技能评审器,2026-03-27T00:00:00+08:00,部分,0.33,"AI日志.md, skill-evaluator.skill",1,"缺少: AI日志.md, skill-evaluator.skill"
+何思远,hesiyuan,人工智能,C4B,微信公众号发布,2026-04-03T00:00:00+08:00,完整,1.0,,1,
+何思远,hesiyuan,人工智能,C4C,作业自动求解器,2026-04-09T00:00:00+08:00,完整,1.0,,2,
+何思远,hesiyuan,人工智能,C4D,本地大模型 Agent,,缺失,0.0,"agent-skill/, map.html, 方案设计.md, 验证报告.md, AI日志.md",0,未提交
+何思远,hesiyuan,人工智能,C5,GitHub 开源项目,,缺失,0.0,"repo链接.md, README.md, LICENSE, AI日志.md, 拿来说明.md",0,未提交
+何思远,hesiyuan,人工智能,C5A,GitHub 入门,,缺失,0.0,"GitHub账号.txt, 仓库分析.md, AAR.md, AI日志.md",0,未提交
+何思远,hesiyuan,人工智能,C6,Web App 上线,2026-05-07T00:00:00+08:00,完整,1.0,,2,
+何思远,hesiyuan,人工智能,C6A,提交数据仪表盘,,缺失,0.0,"方案设计.md, data/, dashboard/, report.xlsx, AI日志.md",0,未提交
