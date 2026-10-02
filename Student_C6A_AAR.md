@@ -2,7 +2,7 @@
 
 > After Action Review — 行动后复盘
 > 任务：C6A 提交数据仪表盘
-> 日期：2026-09-30
+> 日期：2026-09-30（2026-10-02 补齐 demo 录屏后同步更新）
 
 ---
 
@@ -19,21 +19,22 @@
 | 5 | 构建本地网站仪表盘（4个视图+详情弹窗+筛选） | ✅ 完成 |
 | 6 | 编写方案设计、教学说明、拿来说明 | ✅ 完成 |
 | 7 | 编写 AI 日志和本复盘 | ✅ 完成 |
-| 8 | 截图（网站运行效果） | ⬜ 需用户本地完成 |
+| 8 | 录制 30–60 秒演示视频（总览 → 提交矩阵 → 单元格详情） | ✅ 完成 |
+| 9 | 按平台命名规则整理交付包并推送 GitHub | ✅ 完成 |
 
 ### 1.2 交付物清单
 
+- [x] Student_C6A_仪表盘/index.html — 交互式网站仪表盘（平台必交）
+- [x] Student_C6A_数据/submissions.json + submissions.csv — 结构化数据 162 条（平台必交）
+- [x] Student_C6A_demo.mp4 — 30–60 秒演示录屏：总览 → 提交矩阵 → 单元格详情（平台必交）
+- [x] Student_C6A_AI日志.md — AI 使用记录（平台必交）
+- [x] Student_C6A_report.xlsx — Excel 报表（5 Sheet，含条件格式）
+- [x] generate_excel.py — Excel 生成脚本
 - [x] Student_C6A_方案设计.md — 架构、技术选型、数据模型
-- [x] C6A_Dashboard/data/ — submissions.json + submissions.csv
-- [x] C6A_Dashboard/dashboard/index.html — 交互式网站
-- [x] C6A_Dashboard/report.xlsx — Excel 报表（5 Sheet）
-- [x] C6A_Dashboard/generate_data.py — 数据生成脚本
-- [x] C6A_Dashboard/generate_excel.py — Excel 生成脚本
 - [x] Student_C6A_教学说明.md — 安装运行指南
-- [x] Student_C6A_AAR.md — 本复盘
-- [x] Student_C6A_AI日志.md — AI 使用记录
 - [x] Student_C6A_拿来说明.md — 借鉴来源
 - [x] Student_C6A_screenshots/README_截图说明.md — 截图清单
+- [x] Student_C6A_AAR.md — 本复盘
 
 ---
 
@@ -164,11 +165,12 @@
 
 | 维度 | 评分 | 说明 |
 |------|------|------|
+| 交付完整性 | 10/10 | 平台四项必交（仪表盘 / 数据 / demo 录屏 / AI 日志）齐备 |
 | 数据完整性 | 8/10 | 18人×9挑战=162条，结构完整，但为模拟数据 |
 | 展示质量 | 9/10 | 4个视图+3图表+详情弹窗+颜色编码，交互丰富 |
 | 自动化程度 | 7/10 | 数据和Excel自动生成，网站数据内嵌，真实数据扫描待扩展 |
 | 完成级别 | Gold 🥇 | 完成 Level 1-3，Level 4 自动化部分待扩展 |
 | 可复用性 | 9/10 | 数据与视图分离，添加学生/挑战不需改代码 |
-| **综合** | **84/100** | |
+| **综合** | **87/100** | |
 
 > 扣分原因：数据为模拟数据（无法访问班级群文件），Level 4 自动化功能（自动扫描、评审集成）未完全实现。如果替换为真实数据并部署上线，可达到 90+ 分。
